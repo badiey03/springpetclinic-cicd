@@ -1,0 +1,18 @@
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Maven
+target/
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
